@@ -15,7 +15,7 @@ Output: -1
 import collections
 
 # Build hashmap out of list
-# Enumerate through hashmap
+# Enumerate through given string
 # Check at each key if the value is 1
 #   Return the index if True
 # Return -1 if none are 1
