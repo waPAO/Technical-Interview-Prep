@@ -7,7 +7,7 @@ If there is more than one possible answer, return the longest word with the smal
 lexicographical order. If there is no answer, return the empty string.
 
 Examples -
-Input: words = ["w","wo","wor","worl","world"]
+Input: words =  ["w","wo","wor","worl","world"]
 Output: "world"
 Explanation: The word "world" can be built one character at a time by "w", "wo", "wor", and "worl".
 

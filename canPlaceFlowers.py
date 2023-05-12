@@ -9,7 +9,7 @@ and an integer n, return if n new flowers can be planted in the flowerbed withou
 
 '''
 Example:
-    Input: flowerbed = [1,0,0,0,1], n = 2
+    Input: flowerbed =  [1,0,0,0,1], n = 2
     Output: false
 '''
 class Solution:

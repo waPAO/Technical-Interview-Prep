@@ -10,7 +10,7 @@ Input: s = "loveleetcode"
 Output: 2
 
 Input: s = "aabb"
-Output: -1
+Output:  -1
 '''
 import collections
 
